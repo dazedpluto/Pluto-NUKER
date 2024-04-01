@@ -18,7 +18,7 @@
 * ` And more`
 
 <details>
-<summary>Phoenix Preview</summary>
+<summary>Pluto Nuker Preview</summary>
 <img src="https://i.imgur.com/A13TAMz.png">
 <img src="https://i.imgur.com/aW5yttp.png">
 <img src="https://i.imgur.com/QdRBdoJ.png">
