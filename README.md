@@ -1,10 +1,5 @@
 # Pluto Nuker
 
-[![Stars](https://img.shields.io/github/stars/extatent/Pluto-NUKER?label=Stars&style=for-the-badge)](https://github.com/extatent/Pluto-NUKER/stargazers)
-[![Forks](https://img.shields.io/github/forks/extatent/Pluto-NUKER?label=Forks&style=for-the-badge)](https://github.com/extatent/Pluto-NUKER/network/members)
-[![License](https://img.shields.io/github/license/extatent/Pluto-NUKER?style=for-the-badge)](https://github.com/extatent/Pluto-NUKER/blob/main/LICENSE)
-[![Download Pluto NUKER](https://img.shields.io/badge/Download-Phoenix-Green?style=for-the-badge)](https://github.com/extatent/Pluto-NUKER/releases/download/Download/PlutoNuker.exe)
-
 ---
 
 ### Features
